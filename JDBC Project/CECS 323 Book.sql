@@ -1,10 +1,9 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 /**
+ * 
+ * In this SQL file, we created three tables, Writing Group, Publisher, and Books. Once we created the tables,
+ * we inserted fake data based on bands and their record labels.
+ * 
  * Author:  Abram Villanueva <abramvillan@gmail.com> and Caren Briones <carenpbriones@gmail.com>
  * Created: Oct 18 , 2016
  */
